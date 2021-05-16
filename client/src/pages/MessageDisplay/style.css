@@ -1,0 +1,10 @@
+#dimmer {
+    height: 90vh;
+    width: 90vw;
+}
+
+#close-button {
+    position: absolute !important;
+    top: 0px !important;
+    right: 0px !important;
+}

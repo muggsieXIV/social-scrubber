@@ -1,0 +1,48 @@
+.overflow {
+    overflow: auto !important;
+}
+
+.fullscreen {
+    height: 100vh !important;
+    width: 100vw !important;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.icon-button {
+    padding: 10% 10% !important
+}
+
+.icon-button-icon {
+    margin: 0 !important;
+}
+
+
+/* DASHBOARD TAB SECTION */
+.tabs {
+    
+}
+
+.tab-list {
+border-bottom: 1px solid #ccc;
+padding-left: 0;
+font-size: medium;
+}
+
+.tab-list-item {
+display: inline-block;
+list-style: none;
+margin-bottom: -1px;
+padding: 0.5rem 0.75rem;
+
+}
+
+.tab-list-active {
+background-color: #ccc;
+color: white;
+border-width: 1px 1px 0 1px;
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+}
